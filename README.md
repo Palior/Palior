@@ -1,6 +1,7 @@
-# Hello! 👋 I am Pablo Lizama
+# Hello! 👋 I am Pablo Lizama 
 
-### Software Developer
+### Software Developer <br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvc2J5cWRjaHB3YzZkMXMwd3lpNmZ2b3k0OXh2eWZhcGtoMmh6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.webp" alt="Descripción del GIF" width="130" height="100">
 <br>
 
 
