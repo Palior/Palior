@@ -1,7 +1,13 @@
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Descripción del GIF" width="50" height="50"> Hello! 👋 I am Pablo Lizama  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Descripción del GIF" width="50" height="50">
+<h1 align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Descripción del GIF" width="50" height="50"> Hello! 👋 I am Pablo Lizama  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Descripción del GIF" width="50" height="50">
+</h1>
+<h2 align="center">
+<strong> Software Developer </strong><br>
+</h2>
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvc2J5cWRjaHB3YzZkMXMwd3lpNmZ2b3k0OXh2eWZhcGtoMmh6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.webp" alt="gif1" width="130" height="100"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxvZGZ0Z25sZ2RxZWlsdW5uY244NXRsZzcwMjhxYndna3JlOTBhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" alt="gif2" width="160" height="100">
+</p>
 
-### Software Developer <br>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBvc2J5cWRjaHB3YzZkMXMwd3lpNmZ2b3k0OXh2eWZhcGtoMmh6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.webp" alt="Descripción del GIF" width="130" height="100">
+
 <br>
 
 
