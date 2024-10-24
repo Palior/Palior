@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Descripción del GIF" width="50" height="50"> Hello! 👋 I am Pablo Lizama  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Descripción del GIF" width="50" height="50">
+<h1 align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GIF1" width="50" height="50"> Hello! 👋 I am Pablo Lizama  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMnkyZDd4aHN1emh4cmdjOWVjcWgzanR5ejJ5MW10Z2ozczRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GIF2" width="50" height="50">
 </h1>
 <h2 align="center">
 <strong> Software Developer </strong><br>
@@ -55,15 +55,27 @@
 
 ### Projects:
 
-### Github Activity ✔:
+<a href="https://github.com/Palior/Draw-polyhedra-from-an-input-file-that-contains-a-matrix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Draw-polyhedra-from-an-input-file-that-contains-a-matrix&theme=tokyonight" />
+</a>
 
-<a href="https://github.com/Palior">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palior&theme=tokyonight" />
-  </a> <br> <br>
+<a href="https://github.com/Palior/Car-Parking-Registration-System">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Car-Parking-Registration-System&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/Palior/GUI-for-bus-ticket-registration-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=GUI-for-bus-ticket-registration-&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Palior/Minesweeper-in-C">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Minesweeper-in-C&theme=tokyonight" />
+</a>
+
+
+
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palior&theme=tokyonight" />
 
 ### Contact with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-lizama-orostica/)<br>
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plizama.orostica@gmail.com)
-
