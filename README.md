@@ -55,7 +55,14 @@
 
 ### Projects:
 
-### Contact:
+### Github Activity ✔:
+
+<a href="https://github.com/Palior">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palior&theme=tokyonight" />
+  </a> <br> <br>
+
+
+### Contact with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-lizama-orostica/)<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plizama.orostica@gmail.com)
