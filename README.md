@@ -49,25 +49,28 @@
 - OS: <br>
 	![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+- Frameworks: <br>
+	![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+	![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 - Additional tools: <br>
   	![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Projects:
 
 <a href="https://github.com/Palior/Draw-polyhedra-from-an-input-file-that-contains-a-matrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Draw-polyhedra-from-an-input-file-that-contains-a-matrix&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Draw-polyhedra-from-an-input-file-that-contains-a-matrix&theme=tokyonight" height=140>
 </a>
 
 <a href="https://github.com/Palior/Car-Parking-Registration-System">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Car-Parking-Registration-System&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Car-Parking-Registration-System&theme=tokyonight" height=140>
 </a>
 
 <a href="https://github.com/Palior/GUI-for-bus-ticket-registration-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=GUI-for-bus-ticket-registration-&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=GUI-for-bus-ticket-registration-&theme=tokyonight" height=140>
 </a>
 
 <a href="https://github.com/Palior/Minesweeper-in-C">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Minesweeper-in-C&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Minesweeper-in-C&theme=tokyonight" height=140>
 </a>
 
 
