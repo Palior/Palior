@@ -58,19 +58,19 @@
 ### Projects:
 
 <a href="https://github.com/Palior/Draw-polyhedra-from-an-input-file-that-contains-a-matrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Draw-polyhedra-from-an-input-file-that-contains-a-matrix&theme=tokyonight" height=140>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Draw-polyhedra-from-an-input-file-that-contains-a-matrix&theme=tokyonight">
 </a>
 
 <a href="https://github.com/Palior/Car-Parking-Registration-System">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Car-Parking-Registration-System&theme=tokyonight" height=140>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Car-Parking-Registration-System&theme=tokyonight">
 </a>
 
 <a href="https://github.com/Palior/GUI-for-bus-ticket-registration-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=GUI-for-bus-ticket-registration-&theme=tokyonight" height=140>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=GUI-for-bus-ticket-registration-&theme=tokyonight">
 </a>
 
 <a href="https://github.com/Palior/Minesweeper-in-C">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Minesweeper-in-C&theme=tokyonight" height=140>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Palior&repo=Minesweeper-in-C&theme=tokyonight">
 </a>
 
 
